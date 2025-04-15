@@ -2,13 +2,13 @@
 # Homepage configuration
 # See https://fontawesome.com/search for icons options
 
-title: "Demo dashboard"
+title: "feng home"
 subtitle: "Homer"
 logo: "logo.png"
 # icon: "fas fa-skull-crossbones" # Optional icon
 
 header: true
-footer: '<p>fenghuashao.top</p>' # set false if you want to hide it.
+footer: '<p>fenghuashao</p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
